@@ -1,0 +1,8 @@
+accelerator:
+  displayName: Ejemplo Accelerator IPM
+  description: Ejemplo de Accelerator IPM con un simple README
+  iconUrl: https://ipm.es/wp-content/uploads/2020/12/ipm-logo-blue.svg
+  tags:
+  - simple
+  - getting-started
+  - test
